@@ -1,5 +1,4 @@
-# Trigger Button – User Guide
-
+# PCF Main Form Button 
 ## Purpose
 
 The **PCF Main Form Button** allows you to perform a specific action on a record—such as validation, eligibility check, recalculation, or other business logic—by simply clicking a button on the form.
